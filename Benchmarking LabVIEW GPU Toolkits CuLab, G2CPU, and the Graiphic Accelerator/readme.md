@@ -30,7 +30,7 @@ The objective is to provide a **real-world comparison** and understand the trade
 | **CPU** | Intel® Core™ i9-10850K @ 3.60 GHz |
 | **GPU** | NVIDIA GeForce RTX 3060 |
 | **LabVIEW** | 2025 Q3 |
-| **CUDA** | 12.9 |
+| **CUDA** | 12.8 |
 | **TensorRT** | 10.13.3.9 |
 | **Date** | October 15, 2025 |
 
