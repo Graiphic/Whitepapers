@@ -79,9 +79,7 @@ All LabVIEW VIs used to generate the benchmark results are available in the
 | **Complex** | [Source/Complex](./Source/Complex) | Custom complex-number computation |
 | **Signal Processing** | [Source/Signal Processing Without Indicator And Warmup](./Source/Signal%20Processing%20Without%20Indicator%20And%20Warmup) | FFT-based signal test |
 
-> **Note:** Two additional large files are required for full signal-processing reproduction:  
-> - `G2CPU Read RF BIN quick record_2020 Bench all exec without indicator.vi` (14 MB)  
->   🔗 [Download here](http://download2.graiphic.io/_Bench/G2CPU%20Read%20RF%20BIN%20quick%20record_2020%20Bench%20all%20exec%20without%20indicator.vi)  
+> **Note:** One additional large file is required for full signal-processing reproduction:   
 > - `TEMP.BIN` (2 GB, test data file)  
 >   🔗 [Download here](http://download2.graiphic.io/_Bench/TEMP.BIN)
 
