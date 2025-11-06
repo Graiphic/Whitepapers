@@ -32,7 +32,8 @@ The objective is to provide a **real-world comparison** and understand the trade
 | **LabVIEW** | 2025 Q3 |
 | **CUDA** | 12.8 |
 | **TensorRT** | 10.13.3.9 |
-| **Date** | October 15, 2025 |
+| **DirectML** | 1.15.4.0 |
+| **Date** | November 6, 2025 |
 
 This setup represents a balanced workstation configuration for reproducible LabVIEW GPU benchmarks.
 
