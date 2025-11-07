@@ -14,8 +14,8 @@ This benchmark measures and compares the **performance**, **integration**, and *
 
 ### Toolkits Compared
 - **Graiphic Accelerator Toolkit**
-- **CuLab GPU Toolkit** (Ngene)
-- **G2CPU Toolkit** (Natan Biesmans)
+- **CuLab GPU Toolkit 4.1.2.80** (Ngene)
+- **G2CPU GPU and CPU HPC Toolkit 1.6.0.15** (Natan Biesmans)
 - **Native LabVIEW CPU execution**
 
 The objective is to provide a **real-world comparison** and understand the trade-offs between speed, scalability, and ease of integration.
