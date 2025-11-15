@@ -19,9 +19,9 @@ Each whitepaper resides in its own folder with the corresponding PDF and, when a
 
 ---
 
-### **2. Benchmarking LabVIEW GPU Toolkits — CuLab, G²CPU, Graiphic Accelerator (v1.1)**  
-**Theme:** Performance comparison of GPU acceleration toolkits  
-**Summary:** A reproducible benchmark suite evaluating GEMM, arithmetic pipelines, complex operations, and signal-processing workloads across CuLab, G²CPU, and the Graiphic Accelerator Toolkit under identical LabVIEW conditions.
+### **2. Benchmarking LabVIEW GPU Toolkits CuLab, G²CPU, Graiphic Accelerator (v1.1)**  
+**Theme:** Comparative performance of LabVIEW GPU acceleration frameworks  
+**Summary:** A fully reproducible benchmark evaluating real LabVIEW workloads: GEMM, arithmetic pipelines, complex-number processing, and NI-style signal-processing tasks. All toolkits are tested under identical hardware, driver, and LabVIEW conditions. The study compares CuLab, G²CPU, and the Graiphic Accelerator Toolkit across CUDA, TensorRT, and DirectML execution providers, demonstrating the benefits of compiled graph execution over DLL-based node evaluation.
 
 - **Whitepaper:**  
   👉 [`Benchmarking_the_Future_1.1.pdf`](./Benchmarking%20LabVIEW%20GPU%20Toolkits%20CuLab%2C%20G2CPU%2C%20and%20the%20Graiphic%20Accelerator/Benchmarking%20the%20Future%20Comparing%20LabVIEW%20GPU%20Toolkits%20CuLab%2C%20G2CPU%2C%20and%20the%20Graiphic%20Accelerator.1.1.pdf)
